@@ -2,7 +2,7 @@
 //  helloSwiftUITests.swift
 //  helloSwiftUITests
 //
-//  Created by zffridption on 2023. 2. 18..
+//  Created on 2023. 2. 18..
 //
 
 import XCTest
